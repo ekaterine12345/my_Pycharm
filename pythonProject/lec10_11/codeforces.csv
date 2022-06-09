@@ -1,0 +1,501 @@
+﻿Code Name,Name,Score,Users
+1535F,String Distance,not graded,46
+1535E,Gold Transfer,not graded,605
+1535D,Playoff Tournament,not graded,2417
+1535C,Unstable String,not graded,5711
+1535B,Array Reodering,not graded,14060
+1535A,Fair Playoff,not graded,18331
+1531E3,Сортировка слиянием,not graded,247
+1531E2,Сортировка слиянием,not graded,316
+1531E1,Сортировка слиянием,not graded,339
+1531D,Редактируем Зингер | color,not graded,318
+1531C,Симметричный амфитеатр,not graded,590
+1531B2,Мониторинг,not graded,667
+1531B1,Мониторинг,not graded,936
+1531A,Зингер | color,not graded,1098
+1529B,Sifid and Strange Subsequences,1100,13841
+1529A,Eshag Loves Big Arrays,800,20524
+1528F,AmShZ Farm,3300,79
+1528E,Mashtali and Hagh Trees,2900,206
+1528D,"It's a bird! No, it's a plane! No, it's AaParsa!",2500,695
+1528C,Trees of Tranquillity,2300,1297
+1528B,Kavi on Pairing Duty,1700,5044
+1528A,Parsa's Humongous Tree,1600,7447
+1527E,Partition Game,2500,808
+1527D,MEX Tree,2400,940
+1527C,Sequence Pair Weight,1600,7833
+1527B2,Palindrome Game (hard version),1900,4892
+1527B1,Palindrome Game (easy version),1200,13646
+1527A,And Then There Were K,800,19703
+1526F,Median Queries,3000,78
+1526E,Oolimry and Suffix Array,2400,468
+1526D,Kill Anton,2200,1445
+1526C2,Potions (Hard Version),1600,8582
+1526C1,Potions (Easy Version),1500,9478
+1526B,I Hate 1111,1400,12022
+1526A,Mean Inequality,800,16893
+1525F,Goblins And Gnomes,2800,152
+1525E,Assimilation IV,2100,971
+1525D,Armchairs,1800,5351
+1525C,Robot Collisions,2000,2783
+1525B,Permutation Sort,900,15572
+1525A,Potion-making,800,18004
+1523H,Hopping Around the Array,3500,41
+1523G,Try Booking,3200,133
+1523F,Favorite Game,3300,121
+1523E,Crypto Lights,2600,659
+1523D,Love-Hate,2400,1133
+1523C,Compression and Expansion,1600,5527
+1523B,Lord of the Values,1100,8216
+1523A,Game of Life,800,10291
+1521E,Nastia and a Beautiful Matrix,2700,383
+1521D,Nastia Plays with a Tree,2500,1012
+1521C,Nastia and a Hidden Permutation,2000,3251
+1521B,Nastia and a Good Array,1300,12300
+1521A,Nastia and Nearly Good Numbers,1000,18742
+1520G,To Go Or Not To Go?,2200,2107
+1520F2,Guess the K-th Zero (Hard version),2200,1956
+1520F1,Guess the K-th Zero (Easy version),1600,6022
+1520E,Arranging The Sheep,1400,10570
+1520D,Same Differences,1200,16637
+1520C,Not Adjacent Matrix,1000,17906
+1520B,Ordinary Numbers,800,22864
+1520A,Do Not Be Distracted!,800,26443
+1519F,Chests and Keys,3200,137
+1519E,Off by One,2700,525
+1519D,Maximum Sum of Products,1600,8019
+1519C,Berland Regional,1400,9742
+1519B,The Cake Is a Lie,800,19105
+1519A,Red and Blue Beans,800,20109
+1517H,Fly Around the World,3500,32
+1517G,Starry Night Camping,3300,163
+1517F,Reunion,3200,166
+1517E,Group Photo,2500,699
+1517D,Explorer Space,1800,4772
+1517C,Fillomino 2,1400,8515
+1517B,Morning Jogging,1200,9772
+1517A,Sum of 2050,800,18265
+1516E,Baby Ehab Plays with Permutations,2500,507
+1516D,Cut,2100,2356
+1516C,Baby Ehab Partitions Again,1700,7030
+1516B,AGAGA XOOORRR,1500,10455
+1516A,Tit for Tat,800,17685
+1515I,Phoenix and Diamonds,3400,76
+1515H,Phoenix and Bits,3500,95
+1515G,Phoenix and Odometers,2700,512
+1515F,Phoenix and Earthquake,2600,927
+1515E,Phoenix and Computers,2200,1925
+1515D,Phoenix and Socks,1500,7308
+1515C,Phoenix and Towers,1400,9751
+1515B,Phoenix and Puzzle,1000,14574
+1515A,Phoenix and Gold,800,16059
+1514E,Baby Ehab's Hyper Apartment,2700,298
+1514D,Cut and Stick,2000,2745
+1514C,Product 1 Modulo N,1600,7824
+1514B,"AND 0, Sum Big",1200,12271
+1514A,Perfectly Imperfect Array,800,17679
+1513F,Swapping Problem,2500,570
+1513E,Cost Equilibrium,2300,960
+1513D,GCD and MST,2000,2810
+1513C,Add One,1600,7218
+1513B,AND Sequences,1400,8235
+1513A,Array and Peaks,800,15560
+1512G,Short Task,1700,4162
+1512F,Education,1900,3567
+1512E,Permutation by Sum,1600,5891
+1512D,Corrupted Array,1200,11748
+1512C,A-B Palindrome,1200,11826
+1512B,Almost Rectangle,800,18658
+1512A,Spy Detected!,800,25661
+1511G,Chips on a Board,2700,343
+1511F,Chainword,2700,191
+1511E,Colorings and Dominoes,2100,1687
+1511D,Min Cost String,1600,6879
+1511C,Yet Another Card Deck,1100,14199
+1511B,GCD Length,1100,14300
+1511A,Review Site,800,19545
+1510K,King's Task,1200,3155
+1510J,Japanese Game,2700,213
+1510I,Is It Rated?,2700,248
+1510H,Hard Optimization,3200,48
+1510G,Guide,2100,910
+1510F,Fiber Shape,2800,29
+1510E,Equilibrium Point /\textbackslash/\textbackslash,2700,133
+1510D,Digits,2100,1110
+1510C,Cactus Not Enough,2900,107
+1510B,Button Lock,2600,405
+1510A,ASCII Automata Art,3100,87
+1509C,The Sports Festival,1800,6832
+1509B,TMT Document,1100,14428
+1509A,Average Height,800,19097
+1508F,Optimal Encoding,3500,63
+1508E,Tree Calendar,3100,179
+1508D,Swap Pass,3000,225
+1508C,Complete the MST,2500,799
+1508B,Almost Sorted,1800,2307
+1508A,Binary Literature,1900,4131
+1506G,Maximize the Remaining String,2000,2701
+1506F,Triangular Paths,2000,2149
+1506E,Restoring the Permutation,1500,7777
+1506D,Epic Transformation,1400,11336
+1506C,Double-ended Strings,1000,15170
+1506B,Partial Replacement,1100,14442
+1506A,Strange Table,800,21652
+1505I,"Mysterious language again, seriously?",2200,254
+1505H,L BREAK into program,2500,261
+1505G,Encoded message,2600,178
+1505F,Math,2200,919
+1505E,Cakewalk,1800,1326
+1505D,Xenolith? Hippodrome?,1800,378
+1505C,Fibonacci Words,1400,4282
+1505B,DMCA,1600,3908
+1505A,Is it rated - 2,900,9196
+1504B,Flip the Bits,1200,11449
+1504A,Déjà Vu,800,15919
+1503F,Balance the Cards,3500,59
+1503E,2-Coloring,3100,178
+1503D,Flip the Cards,2600,615
+1503C,Travelling Salesman Problem,2200,2112
+1503B,3-Coloring,1700,4972
+1503A,Balance the Bits,1600,8637
+1501B,Napoleon Cake,900,11183
+1501A,Alexey and Train,800,9866
+1500F,Cupboards Jumps,3500,45
+1500E,Subset Trick,3300,104
+1500D,Tiles for Bathroom,2900,183
+1500C,Matrix Sorting,2600,451
+1500B,Two chandeliers,2200,1399
+1500A,Going Home,1800,6142
+1499G,Graph Coloring,3100,71
+1499F,Diameter Cuts,2400,568
+1499E,Chaotic Merge,2400,879
+1499D,The Number of Pairs,2100,3288
+1499C,Minimum Grid Path,1500,8338
+1499B,Binary Removals,1000,14024
+1499A,Domino on Windowsill,800,17061
+1498F,Christmas Game,2500,382
+1498E,Two Houses,2200,1345
+1498D,Bananas in a Microwave,2200,1728
+1498C,Planar Reflections,1600,6191
+1498B,Box Fitting,1300,10181
+1498A,GCD Sum,800,16294
+1497E2,Square-free division (hard version),2500,899
+1497E1,Square-free division (easy version),1700,5180
+1497D,Genius,2500,962
+1497C2,k-LCM (hard version),1600,9769
+1497C1,k-LCM (easy version),1200,13376
+1497B,M-arrays,1200,12296
+1497A,Meximization,800,17491
+1496B,Max and Mex,1100,12466
+1496A,Split it!,900,14491
+1495F,Squares,3300,122
+1495E,Qingshan and Daniel,3200,136
+1495D,BFS Trees,2600,720
+1495C,Garden of the Sun,2300,1749
+1495B,Let's Go Hiking,1900,4439
+1495A,Diamond Miner,1200,12123
+1494F,Delete The Edges,2900,228
+1494E,A-Z Graph,2400,1128
+1494D,Dogeforces,2300,1781
+1494C,1D Sokoban,1900,3892
+1494B,Berland Crossword,1400,9832
+1494A,ABC String,900,15174
+1493F,Enchanted Matrix,2600,243
+1493E,Enormous XOR,2600,530
+1493D,GCD of an Array,2100,3046
+1493C,K-beautiful Strings,2000,3282
+1493B,Planet Lapituletti,1300,9130
+1493A,Anti-knapsack,800,15473
+1492E,Almost Fault-Tolerant Database,2500,915
+1492D,Genius's Gambit,1900,4487
+1492C,Maximum width,1500,9809
+1492B,Card Deck,1100,13115
+1492A,Three swimmers,800,17603
+1491I,Ruler Of The Zoo,3500,33
+1491H,Yuezheng Ling and Dynamic Tree,3400,251
+1491G,Switch and Flip,2800,399
+1491F,Magnets,2700,598
+1491E,Fib-tree,2400,1432
+1491D,Zookeeper and The Infinite Zoo,1800,4753
+1491C,Pekora and Trampoline,1700,5642
+1491B,Minimal Cost,1200,10659
+1491A,K-th Largest Value,800,15024
+1490G,Old Floppy Drive,1900,3762
+1490F,Equalize the Array,1500,8612
+1490E,Accidental Victory,1400,10076
+1490D,Permutation Transformation,1200,12348
+1490C,Sum of Cubes,1100,17221
+1490B,Balanced Remainders,1000,17383
+1490A,Dense Array,800,21732
+1488J,Flower Shop,3100,9
+1488I,Demonic Invasion,3100,15
+1488H,Build From Suffixes,2800,29
+1488G,Painting Numbers,2500,71
+1488F,Dogecoin,2300,105
+1488E,Palindromic Doubles,2200,143
+1488D,Problemsolving Marathon,1900,228
+1488C,Two Policemen,1900,277
+1488B,RBS Deletion,1800,393
+1488A,From Zero To Y,900,707
+1487G,String Counting,2700,351
+1487F,Ones,2900,224
+1487E,Cheap Dinner,2000,3069
+1487D,Pythagorean Triples,1500,10106
+1487C,Minimum Ties,1500,8579
+1487B,Cat Cycle,1200,12422
+1487A,Arena,800,19555
+1486F,Pairs of Paths,2600,372
+1486E,Paired Payment,2200,1909
+1486D,Max Median,2100,3731
+1486C2,Guessing the Greatest (hard version),1900,5408
+1486C1,Guessing the Greatest (easy version),1600,7475
+1486B,Eastern Exhibition,1500,10530
+1486A,Shifting Stacks,900,17780
+1485F,Copy or Prefix Sum,2400,1139
+1485E,Move and Swap,2500,861
+1485D,Multiples and Power Differences,2200,3509
+1485C,Floor and Mod,1700,6260
+1485B,Replace and Keep Sorted,1200,11031
+1485A,Add and Divide,1000,14022
+1482H,Exam,3400,118
+1482G,Vabank,3200,118
+1482F,Useful Edges,2400,977
+1482E,Skyline Photo,2100,1860
+1482D,Playlist,1900,2708
+1482C,Basic Diplomacy,1600,6442
+1482B,Restore Modulo,1500,6646
+1482A,Prison Break,800,15749
+1481F,AB Tree,3100,189
+1481E,Sorting Books,2500,1318
+1481D,AB Graph,2000,3301
+1481C,Fence Painting,1600,7789
+1481B,New Colony,1100,14876
+1481A,Space Navigation,800,19992
+1480B,The Great Hero,900,12923
+1480A,Yet Another String Game,800,19492
+1479E,School Clubs,3500,67
+1479D,Odd Mineral Resource,2900,436
+1479C,Continuous City,2500,915
+1479B2,Painting the Array II,2100,2815
+1479B1,Painting the Array I,1900,4934
+1479A,Searching Local Minimum,1700,7752
+1478C,Nezzar and Symmetric Array,1700,6802
+1478B,Nezzar and Lucky Number,1100,14243
+1478A,Nezzar and Colorful Balls,800,20341
+1477F,Nezzar and Chocolate Bars,3500,65
+1477E,Nezzar and Tournaments,3300,71
+1477D,Nezzar and Hidden Permutations,2800,284
+1477C,Nezzar and Nice Beatmap,2200,1621
+1477B,Nezzar and Binary String,1900,2161
+1477A,Nezzar and Board,1800,4132
+1476G,Minimum Difference,3100,200
+1476F,Lanterns,3000,149
+1476E,Pattern Matching,2300,1631
+1476D,Journey,1700,5895
+1476C,Longest Simple Cycle,1600,7727
+1476B,Inflation,1300,13183
+1476A,K-divisible Sum,1000,18518
+1475G,Strange Beauty,1900,3868
+1475F,Unusual Matrix,1900,3568
+1475E,Advertising Agency,1600,8143
+1475D,Cleaning the Phone,1800,6327
+1475C,Ball in Berland,1400,12829
+1475B,New Year's Number,900,25471
+1475A,Odd Divisor,900,26745
+1474F,1 2 3 4 ...,3000,88
+1474E,What Is It?,2500,960
+1474D,Cleaning,2200,2971
+1474C,Array Destruction,1700,8160
+1474B,Different Divisors,1000,16701
+1474A,Puzzle From the Future,800,18916
+1473G,Tiles,2800,232
+1473F,Strange Set,2700,505
+1473E,Minimum Path,2400,1850
+1473D,Program,1700,6356
+1473C,No More Inversions,1500,9305
+1473B,String LCM,1000,18755
+1473A,Replacing Elements,800,23415
+1472G,Moving to the Capital,2100,2594
+1472F,New Year's Puzzle,2100,2175
+1472E,Correct Placement,1700,5206
+1472D,Even-Odd Game,1200,15841
+1472C,Long Jumps,1100,17945
+1472B,Fair Division,800,25645
+1472A,Cards for Friends,800,26085
+1471B,Strange List,1100,14529
+1471A,Strange Partition,900,17506
+1470F,Strange Covering,3500,33
+1470E,Strange Permutation,3200,132
+1470D,Strange Housing,2200,2367
+1470C,Strange Shuffle,2500,967
+1470B,Strange Definition,1900,4617
+1470A,Strange Birthday Party,1300,13670
+1469F,Power Sockets,2600,585
+1469E,A Bit Similar,2400,1393
+1469D,Ceil Divisions,1700,6599
+1469C,Building a Fence,1600,7541
+1469B,Red and Blue,1000,16614
+1469A,Regular Bracket Sequence,1000,17991
+1468N,Waste Sorting,900,5197
+1468M,Similar Sets,2300,495
+1468L,Prime Divisors Selection,2700,217
+1468K,The Robot,1600,3280
+1468J,Road Reform,1800,2138
+1468I,Plane Tiling,2500,327
+1468H,K and Medians,2200,1207
+1468G,Hobbits,2500,570
+1468F,Full Turn,1700,2397
+1468E,Four Segments,800,6143
+1468D,Firecrackers,1700,2737
+1468C,Berpizza,1400,3966
+1468B,Bakery,2900,101
+1468A,LaIS,2200,1011
+1467E,Distinctive Roots in a Tree,2500,857
+1467D,Sum of Paths,2200,2639
+1467C,Three Bags,1900,4646
+1467B,Hills And Valleys,1700,8024
+1467A,Wizard of Orz,900,18318
+1466I,The Riddle of the Sphinx,3400,90
+1466H,Finding satisfactory solutions,3300,86
+1466G,Song of the Sirens,2600,618
+1466F,Euclid's nightmare,2100,2355
+1466E,Apollo versus Pan,1800,5139
+1466D,13th Labour of Heracles,1500,8380
+1466C,Canine poetry,1300,12760
+1466B,Last minute enhancements,800,18022
+1466A,Bovine Dilemma,800,19174
+1464F,My Beautiful Madness,3500,56
+1463F,Max Correct Set,3100,205
+1463E,Plan of Lectures,2400,991
+1463D,Pairs,1900,3091
+1463C,Busy Robot,1800,4144
+1463B,Find The Array,1400,11365
+1463A,Dungeon,1100,15914
+1462F,The Treasure of The Segments,1800,4305
+1462E2,Close Tuples (hard version),1700,5661
+1462E1,Close Tuples (easy version),1500,8389
+1462D,Add to Neighbour and Remove,1400,10473
+1462C,Unique Number,900,19322
+1462B,Last Year's Substring,800,19631
+1462A,Favorite Sequence,800,24008
+1461F,Mathematical Expression,2700,342
+1461E,Water Level,2200,1673
+1461D,Divide and Summarize,1600,6215
+1461C,Random Events,1500,7664
+1461B,Find the Spruce,1400,9195
+1461A,String Generation,800,15848
+1459B,Move and Turn,1300,9449
+1459A,Red-Blue Shuffle,800,13601
+1458F,Range Diameter Sum,3500,79
+1458E,Nim Shortcuts,3100,205
+1458D,Flip and Reverse,3100,358
+1458C,Latin Square,2700,658
+1458B,Glass Half Spilled,2000,2324
+1458A,Row GCD,1600,8815
+1456E,XOR-ranges,3500,82
+1455G,Forbidden Value,2900,165
+1455F,String and Operations,2800,270
+1455E,Four Points,2400,1080
+1455D,Sequence and Swaps,1600,8347
+1455C,Ping-pong,1100,14791
+1455B,Jumps,1200,14666
+1455A,Strange Functions,800,20095
+1454F,Array Partition,2100,2580
+1454E,Number of Simple Paths,2000,3787
+1454D,Number into Sequence,1300,12785
+1454C,Sequence Transformation,1200,14988
+1454B,Unique Bid Auction,800,20829
+1454A,Special Permutation,800,25798
+1453F,Even Harder,2700,475
+1453E,Dog Snacks,2300,1466
+1453D,Checkpoints,1900,3235
+1453C,Triangles,1700,4866
+1453B,Suffix Operations,1400,9440
+1453A,Cancel the Trains,800,17683
+1452G,Game On Tree,2700,195
+1452F,Divide Powers,2900,182
+1452E,Two Editorials,2500,1144
+1452D,Radio Towers,1600,5789
+1452C,Two Brackets,800,15213
+1452B,Toy Blocks,1400,10080
+1452A,Robot Program,800,17868
+1451F,Nullify The Matrix,2700,573
+1451E2,Bitwise Queries (Hard Version),2300,1972
+1451E1,Bitwise Queries (Easy Version),2000,2985
+1451D,Circle Game,1700,6890
+1451C,String Equality,1400,10321
+1451B,Non-Substring Subsequence,900,14771
+1451A,Subtract or Divide,800,18577
+1450H2,Multithreading (Hard Version),3300,53
+1450H1,Multithreading (Easy Version),2900,197
+1450G,Communism,3500,80
+1450F,The Struggling Contestant,2400,983
+1450E,Capitalism,2700,599
+1450D,Rating Compression,1800,3984
+1450C2,Errich-Tac-Toe (Hard Version),2300,2453
+1450C1,Errich-Tac-Toe (Easy Version),2100,4113
+1450B,Balls of Steel,1000,11674
+1450A,Avoid Trygub,800,14703
+1447B,Numbers Box,1000,10808
+1447A,Add Candies,800,11625
+1446F,Line Distance,3200,119
+1446E,Long Recovery,3500,41
+1446D2,Frequency Problem (Hard Version),3000,413
+1446D1,Frequency Problem (Easy Version),2600,860
+1446C,Xor Tree,2100,2205
+1446B,Catching Cheaters,1800,5208
+1446A,Knapsack,1300,9998
+1445B,Elimination,900,12307
+1445A,Array Rearrangment,800,15352
+1444E,Finding the Vertex,3500,61
+1444D,Rectangular Polyline,2900,270
+1444C,Team-Building,2500,939
+1444B,Divide and Sum,1900,4520
+1444A,Division,1500,8553
+1443E,Long Permutation,2400,926
+1443C,The Delivery Dilemma,1400,9502
+1443B,Saving the City,1300,10709
+1443A,Kids Seating,800,14013
+1442F,Differentiating Games,3400,37
+1442E,"Black, White and Grey Tree",3000,260
+1442D,Sum,2800,718
+1442C,Graph Transpositions,2400,1097
+1442B,Identify the Operations,1800,3185
+1442A,Extreme Subtraction,1800,6028
+1440B,Sum of Medians,900,12971
+1440A,Buy the String,800,16118
+1439E,Cheat and Win,3500,62
+1439D,INOI Final Contests,3100,170
+1439C,Greedy Shopping,2600,1112
+1439B,Graph Subset Problem,2600,945
+1439A2,Binary Table (Hard Version),1900,3846
+1439A1,Binary Table (Easy Version),1500,7075
+1438F,Olha and Igor,3000,282
+1438E,Yurii Can Do Everything,2500,848
+1438D,Powerful Ksenia,2200,2863
+1438C,Engineer Artem,2000,7101
+1438B,Valerii Against Everyone,1000,13095
+1438A,Specific Tastes of Andre,800,16073
+1437G,Death DBMS,2600,524
+1437F,Emotional Fishermen,2600,627
+1437E,Make It Increasing,2200,2415
+1437D,Minimal Height Tree,1600,8053
+1437C,Chef Monocarp,1800,6957
+1437B,Reverse Binary Strings,1200,13415
+1437A,Marketing Scheme,800,15664
+1436F,Sum Over Subsets,2800,273
+1436E,Complicated Computations,2400,1276
+1436D,Bandit in a City,1900,4161
+1436C,Binary Search,1500,7654
+1436B,Prime Square,900,15324
+1436A,Reorder,800,18240
+1434E,A Convex Game,3500,66
+1433G,Reducing Delivery Cost,2100,2789
+1433F,Zero Remainder Sum,2100,3999
+1433E,Two Round Dances,1300,12683
+1433D,Districts Connection,1200,14346
+1433C,Dominant Piranha,900,19035
+1433B,Yet Another Bookshelf,800,21857
+1433A,Boring Apartments,800,27457
+1431J,Zero-XOR Array,3400,14
+1431I,Cyclic Shifts,2900,27

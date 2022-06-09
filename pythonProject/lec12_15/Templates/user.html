@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>User page</title>
+</head>
+<body>
+    <h2>Hello {{ my_name }}</h2>
+
+    {% for i in subjects %}
+        <p>საგანი: {{ i }}</p>
+        {% if i=='python' %}
+        <p>გამოცდა: 1 ივლისი </p>
+         {% elif i=='calculus' %}
+        <p>გამოცდა: 5 ივლისი </p>
+         {% else  %}
+        <p>გამოცდა: 15 ივლისი </p>
+        {% endif %}
+    {% endfor %}
+</body>
+</html>

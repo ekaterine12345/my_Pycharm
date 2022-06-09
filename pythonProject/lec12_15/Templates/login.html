@@ -1,0 +1,17 @@
+{% extends 'base.html'%}
+
+{% block title %} login {% endblock %}
+
+{% block content %}
+{{ super()}}
+
+<h1> login page</h1>
+
+
+<form method="post" style="width: 50%; margin-left: 20px; ">
+    <input type="text" name="username" class='form-control mt-3' placeholder='username'>
+    <input type="password" name="password" class='form-control mt-3' placeholder='password'>
+    <button type="submit" name="submit" class="btn btn-primary mt-3">  log in </button>
+</form>
+
+{% endblock %}
